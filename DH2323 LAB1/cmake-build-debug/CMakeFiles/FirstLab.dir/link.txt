@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/FirstLab.dir/main.cpp.o  -o FirstLab -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread 

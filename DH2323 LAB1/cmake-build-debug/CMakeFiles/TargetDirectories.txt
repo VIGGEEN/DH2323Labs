@@ -1,0 +1,3 @@
+/home/viktorm/Git/DH2323 LAB1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/viktorm/Git/DH2323 LAB1/cmake-build-debug/CMakeFiles/FirstLab.dir
+/home/viktorm/Git/DH2323 LAB1/cmake-build-debug/CMakeFiles/edit_cache.dir

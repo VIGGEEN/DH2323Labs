@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/DH2323_LAB1.dir/main.cpp.o  -o DH2323_LAB1 
